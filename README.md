@@ -1,4 +1,4 @@
-# Restaurant Order Management System
+# Amar Dukan - Restaurant Order Management System
 
 A **full-stack Restaurant Order Management System** built with **React** on the frontend and **.NET WebAPI** on the backend. This project handles restaurant operations including menu management, order processing, user authentication, and payment integration.  
 
